@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>russian</comment>
+    <entry key="msgNew">Привет, я загадал число, попробуй его отгадать!</entry>
+    <entry key="msgMore">Мое число побольше твоего </entry>
+    <entry key="msgLess"> Мое число меньше твоего</entry>
+    <entry key="msgEqually">Ты угадал, я загадал число Х</entry>
+    <entry key="msgStart">Делай попытку, можно вводить числа от 0 до 1000!</entry>
+</properties>
